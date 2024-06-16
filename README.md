@@ -14,6 +14,8 @@ This repository utilizes deep learning models for video processing tasks, focusi
 ### Face Detection and Gender Classification
 For face detection and gender classification, OpenCV and deep learning models were employed. The models achieve significant accuracy in identifying faces and classifying genders in images and video streams.
 
+checkout this notebook for demo [Face detection and gender classification.ipynp](https://github.com/kishan9999/video-processing-using-deep-learning/blob/main/human%20detection%20and%20gender%20classification%20demo.ipynb)
+
 ![Face Detection and Gender Classification](path/to/image.png)
 
 ### Indoor/Outdoor Scene Classification
