@@ -49,7 +49,7 @@ To use this repository, follow these steps:
    ```bash
    python single_inference.py --video_path
    ```
-   Replace `path/to/your/video.mp4` with your video file.
+   Replace `path` with your video file.
 
 ## Documentation
 For detailed documentation, refer to [docs/](link/to/docs/) directory.
