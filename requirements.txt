@@ -1,0 +1,6 @@
+pandas==2.0.3
+tensorflow==2.15.0
+opencv-python==4.8.0.76
+numpy==1.25.2
+matplotlib==3.7.1
+flask==2.2.5
