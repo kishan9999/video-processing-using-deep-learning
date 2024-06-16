@@ -68,6 +68,10 @@ To use this repository, follow these steps:
    ```
    OR replace `path` with your video file in python single_inference.py.
 
+## Video INFO API 
+run this code flask_api.py to display information about the video file.
+![](https://github.com/kishan9999/video-processing-using-deep-learning/blob/main/samples/video%20info%20api.png)
+
 ## Documentation
 For detailed documentation, refer to [docs/](link/to/docs/) directory.
 
