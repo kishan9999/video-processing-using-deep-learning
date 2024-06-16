@@ -25,7 +25,7 @@ Using a pretrained MobileNetV2 model on the SUN dataset, this project performs i
 
 Model weights are available [(idod.weights.h5)](https://github.com/kishan9999/video-processing-using-deep-learning/blob/main/weights/idod.weights.h5).
 
-Complete training details can be found in the Jupyter Notebook ([notebook.ipynb](link/to/notebook.ipynb)).
+Complete training details can be found in the Jupyter Notebook (training cnn model for indoor outdoor scenes.ipynb).
 
 ## How to Use
 To use this repository, follow these steps:
