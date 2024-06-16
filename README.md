@@ -23,7 +23,7 @@ Using a pretrained MobileNetV2 model on the SUN dataset, this project performs i
 - Validation Accuracy: 93.33%
 - Testing Accuracy: 93.66%
 
-Model weights are available [(link/to/idod.weights.h5)](https://github.com/kishan9999/video-processing-using-deep-learning/blob/main/weights/idod.weights.h5).
+Model weights are available [(idod.weights.h5)](https://github.com/kishan9999/video-processing-using-deep-learning/blob/main/weights/idod.weights.h5).
 
 Complete training details can be found in the Jupyter Notebook ([notebook.ipynb](link/to/notebook.ipynb)).
 
