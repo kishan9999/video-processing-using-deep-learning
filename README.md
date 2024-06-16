@@ -22,14 +22,14 @@ Using a pretrained MobileNetV2 model on the SUN dataset, this project performs i
 - Training Accuracy: 95.25%
 - Validation Accuracy: 93.33%
 - Testing Accuracy: 93.66%
+  
+Complete training details can be found in the Jupyter Notebook [training classification model.ipynb](https://github.com/kishan9999/video-processing-using-deep-learning/blob/main/training%20cnn%20model%20for%20indoor%20outdoor%20scenes.ipynb)
 
 ### Video Processing using Jupyter Notebook
 Here, 1000 videos have been tested for human detection, gender classification, indoor/outdoor classification, and also to provide video information such as resolution, frame rates, and duration.
 [testing on 1000 videos.ipynb](https://github.com/kishan9999/video-processing-using-deep-learning/blob/main/processing%20all%201000%20videos.ipynb)
 
 Model weights are available [(idod.weights.h5)](https://github.com/kishan9999/video-processing-using-deep-learning/blob/main/weights/idod.weights.h5).
-
-Complete training details can be found in the Jupyter Notebook [training classification model.ipynb](https://github.com/kishan9999/video-processing-using-deep-learning/blob/main/training%20cnn%20model%20for%20indoor%20outdoor%20scenes.ipynb)
 
 ## How to Use
 To use this repository, follow these steps:
