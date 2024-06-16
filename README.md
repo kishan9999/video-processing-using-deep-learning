@@ -73,7 +73,7 @@ run this code [video_info.py](https://github.com/kishan9999/video-processing-usi
 ![](https://github.com/kishan9999/video-processing-using-deep-learning/blob/main/samples/video%20info%20api.png)
 
 ## Documentation
-For detailed documentation, refer to [docs/](link/to/docs/) directory.
+For detailed documentation, refer to [Document](https://sites.google.com/view/video-processing-deep-learning?usp=sharing)
 
 ## License
 This project is licensed under the [MIT License](link/to/license).
