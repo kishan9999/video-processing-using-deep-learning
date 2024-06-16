@@ -3,13 +3,16 @@ from models import indoor_outdoor_model
 from video_info import get_video_info
 import cv2
 
+#place your file here
+path = 'samples/v_PlayingCello_g08_c05.avi'
+
 # Importing Models Weights
 face1 = "./weights/opencv_face_detector.pbtxt"
 face2 = "./weights/opencv_face_detector_uint8.pb"
 gen1 = "./weights/gender_deploy.prototxt"
 gen2 = "./weights/gender_net.caffemodel"
 weights = "./weights/idod.weights.h5"
-path = '/content/sample_data3/data1000/v_PlayingCello_g08_c05.avi'
+
 
 # Load Gender and Indoor Outdoor models
 gender = gender_model(face2, face1, gen2, gen1)
