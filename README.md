@@ -29,10 +29,9 @@ Complete training details can be found in the Jupyter Notebook ([notebook.ipynb]
 
 ## How to Use
 To use this repository, follow these steps:
-
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/video-processing-using-deep-learning.git
+   git clone https://github.com/kishan9999/video-processing-using-deep-learning.git
    ```
 2. Install the required dependencies:
    ```bash
