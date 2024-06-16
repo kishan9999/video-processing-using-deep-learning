@@ -58,9 +58,8 @@ For detailed documentation, refer to [docs/](link/to/docs/) directory.
 ## License
 This project is licensed under the [MIT License](link/to/license).
 
-## Authors
-- John Doe
-- Jane Smith
+## Author
+- Kishan Joshi
 
 ## References
 - [Link to related paper or article](link/to/paper)
