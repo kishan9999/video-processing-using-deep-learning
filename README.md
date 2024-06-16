@@ -81,5 +81,6 @@ This project is licensed under the [MIT License](link/to/license).
 - [Link to related paper or article](link/to/paper)
 - [Keras Models](https://keras.io/api/applications/)
 - [SUN dataset](https://groups.csail.mit.edu/vision/SUN/hierarchy.html)
-- [Age Gender Code](https://github.com/spmallick/learnopencv/tree/master/AgeGender)
+- [Age Gender Code Guide](https://www.geeksforgeeks.org/age-and-gender-detection-using-opencv-in-python/)
+- [Age Gender Code Github](https://github.com/spmallick/learnopencv/tree/master/AgeGender)
 - Dataset used for action recognition: [UCF101 Action Recognition](https://www.kaggle.com/datasets/matthewjansen/ucf101-action-recognition)
