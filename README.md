@@ -16,7 +16,7 @@ For face detection and gender classification, OpenCV and deep learning models we
 
 checkout this notebook for demo [Face detection and gender classification.ipynp](https://github.com/kishan9999/video-processing-using-deep-learning/blob/main/human%20detection%20and%20gender%20classification%20demo.ipynb)
 
-![Face Detection and Gender Classification](path/to/image.png)
+![Face Detection and Gender Classification](https://github.com/kishan9999/video-processing-using-deep-learning/blob/main/samples/demo.png)
 
 ### Indoor/Outdoor Scene Classification
 Using a pretrained MobileNetV2 model on the SUN dataset, this project performs indoor/outdoor scene classification. The model was trained on 60,000 images, achieving high accuracy rates:
