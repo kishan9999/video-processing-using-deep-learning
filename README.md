@@ -50,10 +50,10 @@ To use this repository, follow these steps:
    - flask==2.2.5
   
 3. Download All weights and place it in the weights folder
-   [gender_deploy.prototxt](https://github.com/smahesh29/Gender-and-Age-Detection/blob/master/gender_deploy.prototxt)
-   [gender_net.caffemodel](https://github.com/smahesh29/Gender-and-Age-Detection/blob/master/gender_net.caffemodel)
-   [opencv_face_detector_uint8.pb](https://github.com/spmallick/learnopencv/blob/master/AgeGender/opencv_face_detector_uint8.pb)
-   [opencv_face_detector.pbtxt](https://github.com/spmallick/learnopencv/blob/master/AgeGender/opencv_face_detector.pbtxt)
+   * [gender_deploy.prototxt](https://github.com/smahesh29/Gender-and-Age-Detection/blob/master/gender_deploy.prototxt)
+   * [gender_net.caffemodel](https://github.com/smahesh29/Gender-and-Age-Detection/blob/master/gender_net.caffemodel)
+   * [opencv_face_detector_uint8.pb](https://github.com/spmallick/learnopencv/blob/master/AgeGender/opencv_face_detector_uint8.pb)
+   * [opencv_face_detector.pbtxt](https://github.com/spmallick/learnopencv/blob/master/AgeGender/opencv_face_detector.pbtxt)
 
 5. For video processing, use `single_inference.py`:
    ```bash
