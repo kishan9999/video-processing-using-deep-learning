@@ -1,8 +1,3 @@
-# video-processing-using-deep-learning
-This project extracts informations from the video file using deep learning technics
-
-Certainly! Here's a GitHub README template for your repository "video-processing-using-deep-learning":
-
 ---
 
 # Video Processing Using Deep Learning
