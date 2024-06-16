@@ -21,8 +21,10 @@ checkout this notebook for demo [Face detection and gender classification.ipynp]
 ### Indoor/Outdoor Scene Classification
 Using a pretrained MobileNetV2 model on the SUN dataset, this project performs indoor/outdoor scene classification. The model was trained on 60,000 images, achieving high accuracy rates:
 
-![training](https://github.com/kishan9999/video-processing-using-deep-learning/blob/main/samples/mobilenetv2%20training.png)
-![training](https://github.com/kishan9999/video-processing-using-deep-learning/blob/main/samples/mobilenetv2%20training%202.png)
+<div>
+    <img src="https://github.com/kishan9999/video-processing-using-deep-learning/blob/main/samples/mobilenetv2%20training.png" alt="training 1" width="400"/>
+    <img src="https://github.com/kishan9999/video-processing-using-deep-learning/blob/main/samples/mobilenetv2%20training%202.png" alt="training 2" width="400"/>
+</div>
 
 - Training Accuracy: 95.25%
 - Validation Accuracy: 93.33%
