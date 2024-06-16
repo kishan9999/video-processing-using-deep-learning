@@ -47,7 +47,7 @@ To use this repository, follow these steps:
 
 3. For video processing, use `single_inference.py`:
    ```bash
-   python single_inference.py --video_path path/to/your/video.mp4
+   python single_inference.py --video_path
    ```
    Replace `path/to/your/video.mp4` with your video file.
 
