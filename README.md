@@ -1,6 +1,3 @@
-"video-processing-using-deep-learning":
----
-
 # Video Processing Using Deep Learning
 
 ## Table of Contents
@@ -69,5 +66,3 @@ This project is licensed under the [MIT License](link/to/license).
 - [Link to related paper or article](link/to/paper)
 - [SUN dataset](link/to/SUN/dataset)
 - Dataset used for action recognition: [UCF101 Action Recognition](https://www.kaggle.com/datasets/matthewjansen/ucf101-action-recognition)
-
----
