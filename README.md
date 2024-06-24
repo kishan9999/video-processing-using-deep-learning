@@ -82,7 +82,6 @@ This project is licensed under the [MIT License](link/to/license).
 - Kishan Joshi
 
 ## References
-- [Link to related paper or article](link/to/paper)
 - [Keras Models](https://keras.io/api/applications/)
 - [SUN dataset](https://groups.csail.mit.edu/vision/SUN/hierarchy.html)
 - [Age Gender Code Guide](https://www.geeksforgeeks.org/age-and-gender-detection-using-opencv-in-python/)
